@@ -4,6 +4,7 @@
 //= require vendor/accounting.min
 //= require vendor/GoogleChart
 //= require vendor/moment
+//= require vendor/c3.min
 //= require handlebars
 
 //= require config
